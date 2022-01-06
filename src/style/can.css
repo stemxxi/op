@@ -1,0 +1,26 @@
+.navbar-brand-logo{
+    width: 90px;
+}
+
+.nav-bg{
+    background: #282a32 !important;
+}
+
+.nav-link{
+    color: #FFFFFF !important;
+    font-size: 18px;
+}
+.nav-link:hover{
+    color: var(--Orange) !important;
+}
+
+
+.navbar-toggler>span{
+    color: #FFFFFF !important;
+}
+
+.pyk{
+    padding-top: 90px !important;
+    display: flex;
+    justify-content: center;
+}
